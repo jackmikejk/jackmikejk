@@ -1,5 +1,7 @@
+[![MasterHead](https://t3.ftcdn.net/jpg/04/96/48/06/360_F_496480634_4LSGsoeVwpsgik2DMpQ4LMAIfccTLG7G.jpg)]
 <h1 align="center">Hi 👋, I'm Michael Jackson</h1>
 <h3 align="center">Eager Learner and Catalyst for Positive Change: Passionate about Growth and Innovation</h3>
+<img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/09/GIF.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackmikejk&label=Profile%20views&color=0e75b6&style=flat" alt="jackmikejk" /> </p>
 
