@@ -9,8 +9,6 @@
 
 - 🎓 **Masters in Electrical and Computer Engineering at Carleton University**
 
-- 🌱 I’m currently learning **Neural Networks and Deep Learning (Andrew NG)**
-
 - 🎯 **Elevating Possibilities with AI, ML and EV (Electric Vehicles)**
 
 - 🕺 **Dedicated engineer by day, competitive dancer by night**
