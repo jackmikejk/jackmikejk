@@ -19,9 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@michael64203652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@michael64203652" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/michael-jackson-3647771b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/michael-jackson-3647771b1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/michael jackson aka mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="michael jackson aka mj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michael-jackson-maria-louis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/michael-jackson-3647771b1" height="30" width="40" /></a>
 <a href="https://kaggle.com/michael jackson mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="michael jackson mj" height="30" width="40" /></a>
 <a href="https://instagram.com/jackson_mike_143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jackson_mike_143" height="30" width="40" /></a>
 </p>
